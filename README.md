@@ -25,7 +25,9 @@ This is connected to the XR-DW2 antenna driver with a 40cm x-talk cable and prov
 
 The antenna  is mounted to the underside of the detection zone, directly under the area where the RFID tag will be placed. This is typically on the underside of some MDF forming the top surface of the exhibit.
 
-No metal should be placed between the antenna and the RFID tag (or within 20cm of it), as this will interfere with the signal.
+#### THERE SHOULD BE NO MORE THAN 10MM OF MATERIAL BETWEEN THE ANTENNA AND THE TOP SURFACE OF THE DETECTION ZONE.
+
+Additionally, no metal should be placed between the antenna and the RFID tag (or within 10cm of it laterally), as this will interfere with tag reads.
 
 ## RFID tags
 
