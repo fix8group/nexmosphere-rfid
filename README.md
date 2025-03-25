@@ -4,7 +4,7 @@ This guide is for set builders looking to integrate a Nexmosphere RFID reader in
 
 ## Schematic
 
-![Schematic](schematic.svg)
+![Schematic](schematic2.svg)
 
 
 ## Parts
