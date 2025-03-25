@@ -1,6 +1,6 @@
 # RFID table: reader specifications and installation
 
-This guide is for set builders looking to integrate a Nexmosphere RFID reader into built element for exhibition use.
+This guide is for set builders looking to integrate a Nexmosphere RFID reader into built element for exhibition use, based on the software and control systems developed by Fix8Group.
 
 ## Schematic
 
@@ -30,3 +30,9 @@ No metal should be placed between the antenna and the RFID tag (or within 20cm o
 ## RFID tags
 
 The RFID tags used with this system vary by applciation, but are typically 3D printed holdables or credit card-sized RFID cards. The tags are passive, and so do not require a power source.
+
+## Installation
+
+The antenna, driver and interface board should be mounted in the exhibit, during the build process. Do not use adhesive to mount the antenna as is tends to fail over time - screw this in using the holes provided on the PCB.
+
+The driver and interface board should be screwed into the exhibit in a location that is accessible for maintenance, and will reach the host PC.
